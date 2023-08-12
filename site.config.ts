@@ -9,9 +9,10 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Wanli's Note',
-  domain: 'pinkpeak.cyz',
+  name: 'Crafting',
+  domain: 'pinkpeak.xyz',
   author: 'Wanli',
+
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
