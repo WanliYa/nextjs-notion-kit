@@ -15,7 +15,7 @@ export default siteConfig({
 
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Know Yourslef',
 
   // social usernames (optional)
   // twitter: '#',
